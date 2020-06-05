@@ -1,0 +1,14 @@
+{
+	"name": "Mercado do seu Zé",
+	"email": "contato@ze.com",
+	"whatsapp": "1654651651565",
+	"latitude": -46.81273213,
+	"longitude": -35.19238112,
+	"city": "Rio do Sul",
+	"uf": "SC",
+	"items": [
+		1,
+		2,
+		6
+	]	
+}
